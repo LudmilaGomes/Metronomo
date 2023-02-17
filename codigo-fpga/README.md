@@ -1,0 +1,1 @@
+Código para metrônomo na FPGA Cyclone II - EP2C50F672C6; utiliza dois LEDs, três switches (devido aos possíveis erros ocasionados pelo uso do botão normal), clock de 50MHz, 3 displays de sete segmentos.
